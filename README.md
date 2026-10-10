@@ -4,7 +4,7 @@
 ![GUI Framework](https://img.shields.io/badge/GUI-PyQt5%2FPyQt6-green.svg)
 ![License](https://img.shields.io/badge/Course-EE202--Fall%202026-orange)
 
-## 📌 Project Overview
+## 📌 Project Overview (xx)
 This project is a desktop application developed for the **EE202 (Object-Oriented Computer Programming)** course (Fall 2026). It combines a Scientific Calculator, a Two-Linear-Equation Solver, and a Function Plotter into a single PyQt interface.
 
 The main focus of this software is to demonstrate proper Object-Oriented Programming (OOP) design, encapsulation, clean architecture, input validation, and unit testing.
